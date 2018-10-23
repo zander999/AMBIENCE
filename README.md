@@ -1,5 +1,5 @@
 # AMBIENCE
-A mineclone 2 modpack for ambience.
+A mineclone2 modpack for ambience.
 
 # How To Install
-extract into your mineclone2 mods folder and run the game
+go to your mineclone2 mods folder and do a git pull
